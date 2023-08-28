@@ -1,0 +1,4 @@
+div.main{background-color: cadetblue; height: 1000px; justify-content: center; margin: auto; align-items: center;}
+ul{height: 200px; width:100px; background-color: aqua; position: fixed; left: 500px; top:100px; border-radius: 30px; list-style: none; justify-content: center; align-items: center; margin: auto;} 
+li.x{width='50px'; height: 40px; position: fixed; margin-top: 15px; width: 80px; }
+	li.y{background-color: black; height: 50px; width:50; border-radius: 50px; position:sticky;bottom:1px ; margin-bottom: 300px }
